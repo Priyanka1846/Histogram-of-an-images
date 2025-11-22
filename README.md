@@ -84,9 +84,8 @@ plt.show()
 ```
 
 ## OUTPUT
-<img width="711" height="499" alt="image" src="https://github.com/user-attachments/assets/95f61691-04b6-42d5-ac95-3b8ae7cc6527" />
-<img width="711" height="481" alt="image" src="https://github.com/user-attachments/assets/adae27d3-a76f-47bf-b261-8e0dd2a31ef5" />
-<img width="735" height="536" alt="image" src="https://github.com/user-attachments/assets/4117281e-b1a9-4d48-87f5-00e4dd92f0c3" />
+<img width="578" height="433" alt="image" src="https://github.com/user-attachments/assets/84606b2f-2a7d-4d11-b4f2-1d38f571d9e8" />
+
 
 ## Histogram Equilization of GrayScale Image
 ``` python
@@ -104,8 +103,8 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ```
 
 ## OUTPUT
-<img width="739" height="533" alt="image" src="https://github.com/user-attachments/assets/eabcadcf-377a-493c-b91d-933ca3982072" />
-<img width="1380" height="449" alt="image" src="https://github.com/user-attachments/assets/afda865e-03c9-4e0f-ad22-f0d7ac86e41d" />
+<img width="578" height="433" alt="image" src="https://github.com/user-attachments/assets/adf4e597-3403-4170-9157-3f751b1b36a2" />
+
 
 
 ## RESULT
